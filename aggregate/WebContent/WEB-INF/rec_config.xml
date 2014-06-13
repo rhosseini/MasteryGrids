@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<rec_dbstring>jdbc:mysql://localhost/aggregate</rec_dbstring>
+	<rec_dbuser></rec_dbuser>
+	<rec_dbpass></rec_dbpass>
+    <rec_score_threshold>0.7</rec_score_threshold>
+</configuration>
